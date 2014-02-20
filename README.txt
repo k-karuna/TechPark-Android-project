@@ -1,0 +1,1 @@
+Android project by Techpark students, johnysalvesen@gmail.com 
